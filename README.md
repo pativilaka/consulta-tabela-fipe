@@ -4,11 +4,7 @@ Esta aplicação Java Spring consome a FIPE API HTTP REST, principal referência
 
 A aplicação devolve de maneira eficiente a variações de preço de cada modelo ao longo dos anos. Isso permite que você tenha uma visão abrangente e detalhada do valor do seu veículo ou daquele que você deseja adquirir.
 
-
-
-![](C:\projetos-versionados\consumo-api-spring\tabela-fipe-carro\img\saida.png)
-
-
+![](https://github.com/pativilaka/consulta-tabela-fipe/blob/main/img/saida.png)
 
 ## Contato
 
